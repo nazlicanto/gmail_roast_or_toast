@@ -16,9 +16,16 @@ You can make changes to content.js and the extension will automatically be rebui
 
 You can run `npm run build` to create an optimized production build of your extension in the "dist" directory.
 
-## Roast & Toast
+## Roast & Toast Demonstrations
 
-If you decided to toast a little:
+Toast:
+![mergea](https://github.com/nazlicanto/gmail_roast_or_toast/blob/main/samples/mergea.jpg)
+
+and Roast:
+![mergeb](https://github.com/nazlicanto/gmail_roast_or_toast/blob/main/samples/mergeb.jpg)
+
+
+Ensure appropriate context when selecting between "Roast" and "Toast".
 
 
  
