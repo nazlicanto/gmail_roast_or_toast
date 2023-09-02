@@ -16,7 +16,7 @@ InboxSDK.load(2, "sdk_OpenAI_c892aa2a0cx")
   .then((sdk) => {  
     sdk.Compose.registerComposeViewHandler((composeView) => {
       composeView.addButton({
-        title: "Write this better",
+        title: "Generate an Auto Reply",
         iconUrl: 'https://image.ibb.co/mXS2ZU/images.png',
         iconClass: "cursor-pointer",
         onClick: function (event) {
