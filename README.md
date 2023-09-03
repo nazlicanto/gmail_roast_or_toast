@@ -19,10 +19,10 @@ You can run `npm run build` to create an optimized production build of your exte
 ## Roast & Toast Demonstrations
 
 Toast:
-![mergea](https://github.com/nazlicanto/gmail_roast_or_toast/blob/main/samples/mergea.jpg)
+![mergea](https://github.com/nazlicanto/gmail_roast_or_toast/blob/main/samples/Amerge.jpg)
 
 and Roast:
-![mergeb](https://github.com/nazlicanto/gmail_roast_or_toast/blob/main/samples/mergeb.jpg)
+![mergeb](https://github.com/nazlicanto/gmail_roast_or_toast/blob/main/samples/Bmerge.jpg)
 
 
 
