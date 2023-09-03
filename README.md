@@ -1,6 +1,6 @@
 # Gmail Auto Reply Chrome Extension 
 Feeling lazy and tired of replying to emails? Automatically generate roast or toast replies using OpenAI with this chrome extension. This project 
-is inspired by and borrows chunks of code from [this repo]() from Intuition Labs. 
+is inspired by and borrows chunks of code from [this repo](https://github.com/adrienlaurent/intuitionlabs-openai-chrome/tree/main) from Intuition Labs. 
 
 ## Installation & Usage
 You will need an OpenAI subscription to use this extension. Make sure to replace the API_KEY in `src/content.js` with your personal API key before installing the extension.
@@ -25,7 +25,6 @@ and Roast:
 ![mergeb](https://github.com/nazlicanto/gmail_roast_or_toast/blob/main/samples/mergeb.jpg)
 
 
-Ensure appropriate context when selecting between "Roast" and "Toast".
 
 
  
